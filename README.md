@@ -4,14 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sprasanth2k&label=Profile%20views&color=0e75b6&style=flat" alt="sprasanth2k" /> </p>
 
 
-- 🌱 I’m currently learning **React Js**
-
-- 👨‍💻 All of my projects are available at [Projects and webpages](https://github.com/sprasanth2k)
-
-- 💬 Ask me about **C++,HTML,CSS,Javascript**
+- 👨‍💻 All of my projects are available at [Projects and webpages](https://github.com/sprasanth2k?tab=repositories)
 
 - 📫 How to reach me **sprasanth2k@gmail.com**
-<br><br>
+<br>
+
 <p align="left"><img width="500" height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=sprasanth2k&&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="sprasanth2k" /></p>
 <br>
 <h3 align="left">Connect with me:</h3>
