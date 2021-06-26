@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sprasanth2k&show_icons=true&locale=en" alt="sprasanth2k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sprasanth2k&" alt="sprasanth2k" /></p>
+
+![GitHub metrics](https://metrics.lecoq.io/sprasanth2k)
